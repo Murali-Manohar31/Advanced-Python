@@ -1,0 +1,2 @@
+a = "rom rom \n bhaiyon"
+print(a)
